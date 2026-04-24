@@ -1,2 +1,71 @@
+# ------------------------------
+# Python
+# ------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual Environment
 .venv/
+venv/
+env/
+
+# ------------------------------
+# Environment variables (IMPORTANT)
+# ------------------------------
 .env
+.env.*
+
+# ------------------------------
+# Streamlit
+# ------------------------------
+.streamlit/secrets.toml
+
+# ------------------------------
+# Logs & Temp files
+# ------------------------------
+*.log
+*.tmp
+*.temp
+
+# ------------------------------
+# OS Files
+# ------------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------------
+# IDE / Editor
+# ------------------------------
+.vscode/
+.idea/
+
+# ------------------------------
+# Jupyter (if any)
+# ------------------------------
+.ipynb_checkpoints/
+
+# ------------------------------
+# Build / Distribution
+# ------------------------------
+dist/
+build/
+*.egg-info/
+
+# ------------------------------
+# Data / Outputs (OPTIONAL)
+# ------------------------------
+output.json
+*.csv
+*.xlsx
+
+# If you store generated PDFs/images
+generated/
+uploads/
+
+# ------------------------------
+# Poppler / External tools (if inside project)
+# ------------------------------
+poppler/
