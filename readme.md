@@ -1,0 +1,1 @@
+pip install streamlit google-generativeai pdf2image Pillow python-dotenv
