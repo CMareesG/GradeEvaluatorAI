@@ -1,0 +1,44 @@
+{
+  "Q1": {
+    "question": "What is photosynthesis?",
+    "answer": "Food making process",
+    "max_score": 1,
+    "keywords": ["food", "plants", "process"]
+  },
+  "Q2": {
+    "question": "Name the process of water changing into vapor.",
+    "answer": "Evaporation",
+    "max_score": 1,
+    "keywords": ["evaporation"]
+  },
+  "Q3": {
+    "question": "State two differences between plant cell and animal cell.",
+    "answer": "Plant cells have a rigid cell wall and chloroplasts for photosynthesis, while animal cells lack both. Plant cells also usually have a large central vacuole.",
+    "max_score": 2,
+    "keywords": ["cell wall", "chloroplast", "vacuole", "animal cells lack"]
+  },
+  "Q4": {
+    "question": "Why is the heart important for the human body?",
+    "answer": "The heart pumps blood throughout the body, supplying oxygen and nutrients to tissues and removing waste products. It ensures proper circulation and supports all body functions.",
+    "max_score": 2,
+    "keywords": ["pumps blood", "oxygen", "nutrients", "waste removal", "circulation"]
+  },
+  "Q5": {
+    "question": "Explain evaporation with an example.",
+    "answer": "Evaporation is the process in which a liquid changes into vapor at temperatures below boiling point. It occurs at the surface and increases with heat and wind. For example, wet clothes dry faster in sunlight due to evaporation.",
+    "max_score": 3,
+    "keywords": ["evaporation", "liquid to vapor", "surface", "temperature", "example"]
+  },
+  "Q6": {
+    "question": "Describe the structure of a plant cell.",
+    "answer": "A plant cell has a cell wall, cell membrane, nucleus, cytoplasm, and chloroplasts. The cell wall provides support, while chloroplasts help in photosynthesis. A large vacuole is also present, which helps in storage and maintaining cell pressure.",
+    "max_score": 3,
+    "keywords": ["cell wall", "nucleus", "cytoplasm", "chloroplast", "vacuole"]
+  },
+  "Q7": {
+    "question": "Explain the water cycle.",
+    "answer": "The water cycle is the continuous movement of water in nature. Water evaporates due to heat, condenses to form clouds, and falls as precipitation. It then collects in water bodies and the cycle repeats continuously.",
+    "max_score": 3,
+    "keywords": ["evaporation", "condensation", "precipitation", "collection", "cycle"]
+  }
+}
